@@ -10,3 +10,6 @@ My account do not allow me to share a link with my PowerBI dashboards, so I am j
 
 
 All my though process is described on the book, so if you feel like there is no progress being made on some sections, that is probably true, but I guess it is important to register how the work was done
+
+
+PS: This text and almost every single one on the book was made by me without consulting any generative AI (like ChatGPT). As a result, it may contain several errors. I chose this approach intentionally to showcase my true level of English, particularly in writing. I don't think it makes sense to use an AI that will mask my true habilites and flaws. 
